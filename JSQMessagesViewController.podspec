@@ -18,4 +18,6 @@ Pod::Spec.new do |s|
 	s.dependency 'JSQSystemSoundPlayer', '~> 2.0.1'
 	
 	s.deprecated = true
+
+	s.homepage = "https://github.com/piazza-life/JSQMessagesViewController"
 end
